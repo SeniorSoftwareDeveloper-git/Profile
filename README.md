@@ -1,10 +1,14 @@
-### Mobile and Web developer
+### Mobil, Web, and AI Engineer
 
-I am a senior mobile developer with 10 years of experience.
-I have a deep understanding of the Android and IOS SDK and Java/Kotlin/Swift programming language, as well as a strong foundation in mobile application development principles.
-I have a Bachelor’s degree in Computer Science and have spent the past four years at Desert Star Systems, my main responsibilities revolved around building cutting-edge mobile applications and games, testing and debugging applications, and developing updates to improve app usability.
-My expertise extends to working with Agile methodologies, including Scrum, and employing Continuous Integration and Delivery (CI/CD) processes in the development cycle. I possess strong analytical and problem-solving abilities and have been responsible for solving complex technical issues related to mobile application development.
-I’m looking for a great employer and company that will provide me with challenging, interesting work that I can learn from and contribute to.
+I am a Senior Mobile Developer with 10 years of experience building high-quality Android and iOS applications. I have a deep understanding of the Android and iOS SDKs and the Java, Kotlin, and Swift programming languages, along with a strong foundation in mobile application architecture and software engineering principles.
+
+I hold a Bachelor's degree in Computer Science and spent four years at Desert Star Systems, where my primary responsibilities included developing cutting-edge mobile applications and games, testing and debugging applications, and delivering updates to improve usability and performance.
+
+In addition to mobile development, I have extensive experience in full-stack web development, working with React, Next.js, TypeScript, Node.js, Python, and cloud technologies to build scalable web applications and APIs. I am also experienced in AI-powered solutions, integrating Large Language Models (LLMs), OpenAI APIs, intelligent automation workflows, chatbots, and AI-driven features into both mobile and web platforms.
+
+I work with Agile methodologies, including Scrum, and actively use Continuous Integration and Continuous Delivery (CI/CD) practices throughout the development lifecycle. I possess strong analytical and problem-solving skills and have successfully resolved complex technical challenges across mobile, web, and AI systems.
+
+I am passionate about building innovative products and continuously learning new technologies. I am seeking an organization that offers challenging and meaningful work where I can contribute my experience, collaborate with talented teams, and continue growing while delivering high-impact solutions.
 
 
 
@@ -14,6 +18,7 @@ I’m looking for a great employer and company that will provide me with challen
   - C# WPF(7 years) and C# WinForm(7 years)
   - AWS (Lambda, EC2, CDK, S3 bucket), GraphQL, Docker, Kubernetes, CI/CD, Git, and GitLab.
   - Gradle, Bash, Python, Jira, Azure DevOps, Bitbucket, and Figma.
+  - AI Agent, AI chatbot, AI Automation, Machine Learning, Deep Learning, Python, Next.js, LLMs.
 
 
 
@@ -33,5 +38,5 @@ I’m looking for a great employer and company that will provide me with challen
 - ✅ AWS, RDS, S3, Lambda, SNS, CloudFront, Heroku, Rackspace CDN, Apache, Nginx, SSL setup and tuning.
 - ✅ Continuous integration and delivery of CI/CD.
 - ✅ Setting up, using, and configuring source control systems: GitHub, GitLab, Gitolite, SVN, SourceSafe.
-- ✅ Setting up and configuring Kubernetes, Dockers, load balancers, Memcache, and other tools for dynamic scaling and deployment.
+- ✅ Setting up and configuring Kubernetes, Docker, load balancers, Memcache, and other tools for dynamic scaling and deployment.
 - ✅ Manual and automated software testing: Selenium WebDriver, Jenkins, JMeter, Shell and batch scripts, Fiddler, Wireshark, and other testing and debugging tools.
