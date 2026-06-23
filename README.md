@@ -1,4 +1,4 @@
-### Mobil, Web, and AI Engineer
+### Mobil, Web, and AI Developer
 
 I am a Senior Mobile Developer with 10 years of experience building high-quality Android and iOS applications. I have a deep understanding of the Android and iOS SDKs and the Java, Kotlin, and Swift programming languages, along with a strong foundation in mobile application architecture and software engineering principles.
 
